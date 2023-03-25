@@ -1,0 +1,11 @@
+﻿{
+    "name": "Lecture 1 (MV3)",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "This is Lecture 1",
+    "action": {
+        "default_icon": "L1-logo.png",
+        "default_title": "This is Lecture 1",
+        "default_popup": "popup.html"
+    }
+}
